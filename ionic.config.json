@@ -1,0 +1,7 @@
+{
+  "name": "heuism portfolio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
